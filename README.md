@@ -1,13 +1,13 @@
 # 💫 About Me:
 I’m Jess, a Data Engineer with a background in Marketing and Analytics.
 
-🔭 I’m currently working on: Data pipeline optimisation and large-scale data analysis.<br/>
-🌱 I’m currently learning: Advanced data engineering techniques and software engineering principles through my Master’s degree.<br/>
-👯 I’m looking to collaborate on: Data-driven projects and innovative FinTech solutions.<br/>
-🤔 I’m looking for help with: Best practices for data pipeline automation.<br/>
-💬 Ask me about: Data engineering, data analytics, and transitioning from marketing to tech.<br/>
-😄 Pronouns: She/Her<br/>
-⚡ Fun fact: I was named one of Innovate Finance’s Standout 45 in the Women in FinTech Powerlist 2024!<br/>
+🔭 **I’m currently working on:** Data pipeline optimisation and large-scale data analysis.<br/>
+🌱 **I’m currently learning:** Advanced data engineering techniques and software engineering principles through my Master’s degree.<br/>
+👯 **I’m looking to collaborate on:** Data-driven projects and innovative FinTech solutions.<br/>
+🤔 **I’m looking for help with:** Best practices for data pipeline automation.<br/>
+💬 **Ask me about:** Data engineering, data analytics, and transitioning from marketing to tech.<br/>
+😄 **Pronouns:** She/Her<br/>
+⚡ **Fun fact:** I was named one of Innovate Finance’s Standout 45 in the Women in FinTech Powerlist 2024!<br/>
 
 
 ## 🌐 Socials:
